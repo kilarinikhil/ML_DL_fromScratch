@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 xtrain, ytrain = make_regression(n_samples=1000, n_features=1, n_informative=1, random_state=0, noise=10)
 
 ytrain = np.array(ytrain).reshape(1000,1)
-theta , bias = np.random.uniform(-1,1,(1,1)),np.random.uniform(-1,1)
+theta , bias = np.random.uniform(-1,1,(xtrain.shape[1],1)),np.random.uniform(-1,1)
 
 
 def forward(x_train,theta,bias):
