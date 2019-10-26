@@ -6,7 +6,7 @@
 
 ### Recent Updates
 
-Code for OCR using MNIST dataset is out!!!
+Code for Linear Regression and LeNet from scratch is out!!!
 
 ## Amazing stuff coming soon
 
