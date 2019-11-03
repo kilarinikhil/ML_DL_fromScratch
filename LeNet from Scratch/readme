@@ -1,6 +1,6 @@
-In this we design LeNet architecture from scratch.
+#In this we design LeNet architecture from scratch.
 
-Libraries used:
+##Libraries used:
 numpy
 tesorflow(only to import complete dataset of MNIST)
 sklearn(to create confusion matrix, accuracy_score)
