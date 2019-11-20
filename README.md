@@ -8,4 +8,4 @@
 
 Code for Linear Regression and LeNet from scratch is out!!!
 
-
+## Tensorflow models to be uploaded soon
