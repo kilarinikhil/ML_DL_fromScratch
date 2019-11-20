@@ -8,5 +8,4 @@
 
 Code for Linear Regression and LeNet from scratch is out!!!
 
-## Amazing stuff coming soon
 
