@@ -1,6 +1,0 @@
-This is a linear regression example created to provide insights how a linear regression algorithm works.
-
-We create some random data and try to fit it in a linear model using SGD backpropagation
-
-Note:
-Plotting works only for 1d data, so I restricted myself to 1d feature vector, so plotting for multiple features will throw up an error!
