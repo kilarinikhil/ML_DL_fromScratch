@@ -1,4 +1,4 @@
-# Contains my work on Machine Learning 
+# Contains my work on Machine Learning and Deep Learning 
 
 ## MOOCS for beginners
 
