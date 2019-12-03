@@ -1,4 +1,11 @@
 # Contains my work on Machine Learning and Deep Learning 
+The Machine Learning:
+1. K means classification
+2. Linear Regression(using sklearn for random data generation)
+
+The Deep Learning:
+1. CNN
+2. Variational_Autoencoder
 
 ## MOOCS for beginners
 
@@ -6,6 +13,6 @@
 
 ### Recent Updates
 
-Code for Linear Regression and LeNet from scratch is out!!!
+Added variational autoencoder.
 
 ## Tensorflow models to be uploaded soon
