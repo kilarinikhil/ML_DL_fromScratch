@@ -1,2 +1,0 @@
-## models available
-- Linear Regression
